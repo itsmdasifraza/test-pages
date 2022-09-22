@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+			
+<!--md asif raza pages site map url-->
+<url>
+  <loc>https://www.mdasifraza.com</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/about</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/strength/frontend</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/strength/backend</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/project</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/contact</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/blog</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/consult</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<!--md asif raza pages site map url-->
+
+
+
+<!--md asif raza project site map url-->
+<url>
+  <loc>https://www.mdasifraza.com/project/chat-notes</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/project/real-time-weather-tracker</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<!--md asif raza projet site map url-->
+
+
+
+<!--md asif raza post site map url-->
+<url>
+  <loc>https://www.mdasifraza.com/blog/integrate-firestore-cloud-database-with-angular-10</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/blog/how-should-i-plan-and-start-a-programming-project-in-2021</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.mdasifraza.com/blog/angular-reactive-forms-step-by-step-guide</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<!--md asif raza post site map url-->
+
+
+
+<!--chat notes site map url-->
+<url>
+  <loc>https://www.chatnotes.mdasifraza.com</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<!--chat notes site map url-->
+
+
+
+<!--real time weather tracker site map url-->
+<url>
+  <loc>https://www.weathertracker.mdasifraza.com</loc>
+  <lastmod>2021-04-12T08:04:03+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<!--real time weather tracker site map url-->
+
+
+</urlset>
